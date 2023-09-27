@@ -1,0 +1,27 @@
+h1 {
+    font-style: italic;
+}
+
+p {
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    font-style: normal;
+    line-height: 10px;
+    letter-spacing: 10px;
+    word-spacing: 10px;
+    color: red;
+    text-align: center;
+}
+
+/* p {
+    color: blue;
+}
+
+.para {
+    color: green;
+}
+
+#para {
+    color: orange;
+} */
